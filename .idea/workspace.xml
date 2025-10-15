@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" Bias" />
+    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" cc">
+      <change beforePath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760558012539</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=" cc">
+      <option name="closed" value="true" />
+      <created>1760558087588</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1760558087588</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,7 +205,8 @@
     <MESSAGE value=" gg" />
     <MESSAGE value=" loss Got" />
     <MESSAGE value=" Bias" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Bias" />
+    <MESSAGE value=" cc" />
+    <option name="LAST_COMMIT_MESSAGE" value=" cc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
