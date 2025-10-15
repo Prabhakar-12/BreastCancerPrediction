@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" sad">
+    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" yes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760554025562</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" yes">
+      <option name="closed" value="true" />
+      <created>1760554474866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760554474866</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,7 +143,8 @@
     <MESSAGE value=" asd" />
     <MESSAGE value=" dd" />
     <MESSAGE value=" sad" />
-    <option name="LAST_COMMIT_MESSAGE" value=" sad" />
+    <MESSAGE value=" yes" />
+    <option name="LAST_COMMIT_MESSAGE" value=" yes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
