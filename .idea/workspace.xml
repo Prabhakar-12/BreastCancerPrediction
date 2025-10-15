@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" dd">
+    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" sad">
       <change beforePath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,14 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760553769821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" sad">
+      <option name="closed" value="true" />
+      <created>1760554025562</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760554025562</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=".." />
     <MESSAGE value=" asd" />
     <MESSAGE value=" dd" />
-    <option name="LAST_COMMIT_MESSAGE" value=" dd" />
+    <MESSAGE value=" sad" />
+    <option name="LAST_COMMIT_MESSAGE" value=" sad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
