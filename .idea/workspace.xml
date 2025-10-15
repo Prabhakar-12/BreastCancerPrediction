@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" ..">
-      <change beforePath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" Bias" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +156,31 @@
       <option name="project" value="LOCAL" />
       <updated>1760557649872</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" gg">
+      <option name="closed" value="true" />
+      <created>1760557861517</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760557861517</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" loss Got">
+      <option name="closed" value="true" />
+      <created>1760557977349</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760557977349</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" Bias">
+      <option name="closed" value="true" />
+      <created>1760558012539</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760558012539</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,7 +192,10 @@
     <MESSAGE value=" dfd" />
     <MESSAGE value=" tt" />
     <MESSAGE value=" .." />
-    <option name="LAST_COMMIT_MESSAGE" value=" .." />
+    <MESSAGE value=" gg" />
+    <MESSAGE value=" loss Got" />
+    <MESSAGE value=" Bias" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Bias" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
