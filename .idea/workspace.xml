@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" cc">
+    <list default="true" id="68255403-fc4c-4d6e-8520-7bbfdd8ae6e4" name="Changes" comment=" PytorchTrainingLoopPipeline">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Prabhakar-12"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Prabhakar-12&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Prabhakar-12/BreastCancerPrediction.git",
-    "accountId": "d5e82b60-bd61-42ad-bcd6-1ef379a3d43d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Prabhakar-12/BreastCancerPrediction.git&quot;,
+    &quot;accountId&quot;: &quot;d5e82b60-bd61-42ad-bcd6-1ef379a3d43d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -46,6 +47,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/prabhakar/PycharmProject/BreastCancerPrediction"
   },
@@ -190,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760558087588</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=" PytorchTrainingLoopPipeline">
+      <option name="closed" value="true" />
+      <created>1760558511087</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1760558511087</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,7 +216,8 @@
     <MESSAGE value=" loss Got" />
     <MESSAGE value=" Bias" />
     <MESSAGE value=" cc" />
-    <option name="LAST_COMMIT_MESSAGE" value=" cc" />
+    <MESSAGE value=" PytorchTrainingLoopPipeline" />
+    <option name="LAST_COMMIT_MESSAGE" value=" PytorchTrainingLoopPipeline" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
