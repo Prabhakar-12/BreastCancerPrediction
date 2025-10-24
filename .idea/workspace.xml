@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeebe9cc-01d8-47d9-8d7c-ccceb0c8daf5" name="Changes" comment=" ..">
+    <list default="true" id="eeebe9cc-01d8-47d9-8d7c-ccceb0c8daf5" name="Changes" comment="Trainig Data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practice.ipynb" afterDir="false" />
@@ -14,6 +14,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -115,7 +116,15 @@
       <option name="presentableId" value="Default" />
       <updated>1760636014423</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Trainig Data">
+      <option name="closed" value="true" />
+      <created>1760966496956</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760966496956</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +155,7 @@
     <MESSAGE value=" ." />
     <MESSAGE value=" xx" />
     <MESSAGE value=" .." />
-    <option name="LAST_COMMIT_MESSAGE" value=" .." />
+    <MESSAGE value="Trainig Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trainig Data" />
   </component>
 </project>
