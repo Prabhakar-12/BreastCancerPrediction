@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeebe9cc-01d8-47d9-8d7c-ccceb0c8daf5" name="Changes" comment=" ..">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practice.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="eeebe9cc-01d8-47d9-8d7c-ccceb0c8daf5" name="Changes" comment=" oo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -355,7 +351,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761727257045</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary=" ..">
+      <option name="closed" value="true" />
+      <created>1761835755695</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1761835755695</updated>
+    </task>
+    <task id="LOCAL-00039" summary=" oo">
+      <option name="closed" value="true" />
+      <created>1761835921988</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1761835921988</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,6 +409,7 @@
     <MESSAGE value=" 00" />
     <MESSAGE value=" aa" />
     <MESSAGE value=" .." />
-    <option name="LAST_COMMIT_MESSAGE" value=" .." />
+    <MESSAGE value=" oo" />
+    <option name="LAST_COMMIT_MESSAGE" value=" oo" />
   </component>
 </project>
