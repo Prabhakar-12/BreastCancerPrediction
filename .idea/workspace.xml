@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeebe9cc-01d8-47d9-8d7c-ccceb0c8daf5" name="Changes" comment=" aa">
+    <list default="true" id="eeebe9cc-01d8-47d9-8d7c-ccceb0c8daf5" name="Changes" comment=" ..">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practice.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761724554802</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary=" ..">
+      <option name="closed" value="true" />
+      <created>1761727257045</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1761727257045</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,9 +394,9 @@
     <MESSAGE value=" ii" />
     <MESSAGE value=" ww" />
     <MESSAGE value=" ee" />
-    <MESSAGE value=" .." />
     <MESSAGE value=" 00" />
     <MESSAGE value=" aa" />
-    <option name="LAST_COMMIT_MESSAGE" value=" aa" />
+    <MESSAGE value=" .." />
+    <option name="LAST_COMMIT_MESSAGE" value=" .." />
   </component>
 </project>
