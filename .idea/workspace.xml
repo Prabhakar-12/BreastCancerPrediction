@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeebe9cc-01d8-47d9-8d7c-ccceb0c8daf5" name="Changes" comment=" a">
-      <change afterPath="$PROJECT_DIR$/Pytorch_NN_Module.ipynb" afterDir="false" />
+    <list default="true" id="eeebe9cc-01d8-47d9-8d7c-ccceb0c8daf5" name="Changes" comment=" ..">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchTrainingPipeline.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytorch_NN_Module.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_NN_Module.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/prabhakar/PycharmProject/BreastCancerPrediction",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -405,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761838003110</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary=" ..">
+      <option name="closed" value="true" />
+      <created>1761845146011</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845146012</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,11 +455,11 @@
     <MESSAGE value=" ee" />
     <MESSAGE value=" 00" />
     <MESSAGE value=" aa" />
-    <MESSAGE value=" .." />
     <MESSAGE value=" oo" />
     <MESSAGE value=" cc" />
     <MESSAGE value=" x" />
     <MESSAGE value=" a" />
-    <option name="LAST_COMMIT_MESSAGE" value=" a" />
+    <MESSAGE value=" .." />
+    <option name="LAST_COMMIT_MESSAGE" value=" .." />
   </component>
 </project>
